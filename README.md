@@ -162,6 +162,3 @@ Or `multipart/form-data` with the same fields plus optional `receipt` (JPG, PNG,
 
 **GET `/api/health`**
 
-## Demo recording and GitHub
-
-This repository is local until you push it. A screen recording is not included in the source files; record login, adding a loan, the dashboard, and marking a loan repaid after you run the app.
